@@ -18,7 +18,7 @@ params:
       - label: Style Guide
         url: /style-guide
         style: link
-      - label: Contact Us
+      - label: Book Now
         url: /contact
         style: primary
   footer:
